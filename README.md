@@ -67,15 +67,6 @@ This platform solves these problems using:
 * Glassmorphism UI
 * Smooth theme switching
 
-### 📊 Impact Dashboard
-
-* Real-time statistics:
-
-  * Total donors
-  * Total patients
-  * Successful matches
-
----
 
 ## 🛠️ Tech Stack
 
